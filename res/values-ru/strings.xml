@@ -4,6 +4,7 @@
     <string name="app_name">OTA Обновление</string>
         
     <string name="notif_text_rom">Доступно обновление прошивки</string>
+    <string name="notif_text_app">Доступно обновление приложения</string>
     <string name="notif_source">OTA Обновление</string>
     
     <string name="alert_nodata_title">Отсутствует соединение!</string>
@@ -33,6 +34,7 @@
     
     <string name="menu_view">Просмотр скачанных прошивок</string>
     <string name="menu_about">О программе</string>
+    <string name="menu_settings">Настройки</string>
     <string name="menu_refresh">Обновить</string>
     <string name="menu_exit">Выход</string>
     <string name="menu_prune">Удалить старые файлы</string>
@@ -64,5 +66,11 @@
     <string name="main_updates_none">Нет доступных обновлений</string>
     <string name="main_updates_error">Ошибка загрузки обновления: %1$s</string>
     <string name="main_updates_new">&quot;Новые обновления: %1$s (версия %2$s)</string>
-
+    <string name="contributors_title">Участники</string>
+    <string name="contributors_error">Ошибка загрузки файла.</string>
+    
+    <string name="settings_notifications">Настройки уведомлений</string>
+    <string name="display_notifications">Показывать уведомления</string>
+    <string name="notify_default">Уведомления включены.</string>
+    <string name="notify_false">Уведомления выключены.</string>
 </resources>
